@@ -45,3 +45,4 @@ tmp/
 null
 
 .vscode
+*.bin
