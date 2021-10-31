@@ -261,3 +261,7 @@ class toptest extends Component {
   io.output := dec.io.output
 
 }
+
+object gen extends App {
+  SpinalVerilog(new toptest)
+}
